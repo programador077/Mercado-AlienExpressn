@@ -1,0 +1,7 @@
+{
+  "name": "Mercado AlienExpress",
+  "description": "La plataforma de e-commerce líder en Argentina. Envíos a todo el país por Andreani y Oca.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
